@@ -6,4 +6,4 @@
 * 把文件放置到站点文件夹。
 * 填写文件在站点目录路径。
 ## 效果
-![演示](https://ejhu.com/api/bing.php)
+![演示](https://github.com/iwenyi/Bing/blob/main/bing.php)
